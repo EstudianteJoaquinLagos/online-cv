@@ -38,7 +38,7 @@ sidebar:
     title: Languages
     info:
     - idiom: English
-      level: Itermediate
+      level: Intermediate
 
     - idiom: Spanish
       level: Native
@@ -61,7 +61,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Motivated front-end developer with a background in physics. Seeking a role in a fast-paced startup where I can continue to develop my full stack developer skills using JavaScript and TypeScript.
+    Motivated front-end developer with a background in physics. Seeking a role in a fast-paced startup where I can continue to develop my full-stack developer skills using JavaScript and TypeScript.
 education:
   title: Education
   info:
@@ -72,9 +72,9 @@ education:
       JaP is a program by Ceibal aimed at training and helping young people aged 18 to 30 from across Uruguay to enter the labor market in the field of information technology.
       I have acquired a comprehensive set of skills in three key areas:
         - Technical skills:
-          Programming and functional testing, with training in web development.
-        - English languague:
-          Focused on technical English applied to IT, taulored to the student's level after an initial placement test.
+          programming and functional testing, with training in web development.
+        - English language:
+          focused on technical English applied to IT, tailored to the student's level after an initial placement test.
         - Soft skills
   - degree: Physical Sciences
     university: UDELAR
@@ -96,10 +96,10 @@ certifications:
     credentialurl: https://training.genexus.com/es/aprender/detalle-de-tecnico-certificado/132307
     credentialname: Certified Technicians page
     details: |
-      This GeneXus certifications' highlights are:
+      This GeneXus certification's highlights are:
       - Completed official training with hands-on projects demonstrating ability to build functional, scalable applications.
-      - Knowledgeable in integration of applications, security basics, and use patterns to accelerate development.
-      - Experienced in applying software development best practices including version control, testing, and deployment within GeneXus enviroments.
+      - Knowledgeable in integration of applications, security basics, and using patterns to accelerate development.
+      - Experienced in applying software development best practices, including version control, testing, and deployment within GeneXus environments.
       - Skilled in designing and managing databases, creating user interfaces, and implementing business logic with minimal coding.
   - name: Harvard CS50 Python
     start: 2024
@@ -109,7 +109,7 @@ certifications:
     credentialurl: https://certificates.cs50.io/2adf5de1-7d01-4674-9432-bbb1b2ebf6a9.pdf?size=letter
     credentialname: CS50P
     details: |
-      The Introduction to Programming with Python, is an online course offered by Harvard University. Between it highlights are:
+      The Introduction to Programming with Python is an online course offered by Harvard University, with:
       - Focus on Python
       - Comprehensive curriculum
       - Includes extensive practical exercises and projects to apply the concepts learned.
