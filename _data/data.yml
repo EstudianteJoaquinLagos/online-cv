@@ -47,15 +47,15 @@ sidebar:
     title: Interests
     info:
     - item: Books
-      link:
+      # link:
 
 
     - item: Writing
-      link:
+      # link:
       
 
     - item: Movies
-      link:
+      # link:
 
 
 career-profile:
@@ -93,7 +93,7 @@ certifications:
     end: 2025
     organization: GeneXus
     # credentialid: 
-    credentialurl: https://training.genexus.com/es/aprender/detalle-de-tecnico-certificado/132307
+    credentialurl: training.genexus.com/es/aprender/detalle-de-tecnico-certificado/132307
     credentialname: Certified Technicians page
     details: |
       This GeneXus certification's highlights are:
@@ -106,7 +106,7 @@ certifications:
     end: 2024
     organization: Harvard
     # credentialid:
-    credentialurl: https://certificates.cs50.io/2adf5de1-7d01-4674-9432-bbb1b2ebf6a9.pdf?size=letter
+    credentialurl: certificates.cs50.io/2adf5de1-7d01-4674-9432-bbb1b2ebf6a9.pdf?size=letter
     credentialname: CS50P
     details: |
       The Introduction to Programming with Python is an online course offered by Harvard University, with:
@@ -118,17 +118,26 @@ skills:
   title: Skills
 
   toolset:
-  - name: Javascript 
+  - name: JavaScript 
+    level: 100%
 
   - name: TypeScript
+    level: 100%
 
   - name: HTML5 & CSS
+    level: 100%
 
   - name: React
+    level: 100%
 
   - name: Git & GitHub
+    level: 90%
 
-  - name: Vim & Shell & Other Tools
+  - name: Vim & Shell & Etc.
+    level: 75%
+
+  - name: GeneXus
+    level: 50%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Thanks <i class="fas fa-heart"></i><a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow"> Xiaoying Riley</a>
